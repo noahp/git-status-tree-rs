@@ -1,0 +1,11 @@
+[package]
+name = "rust-git-status-tree"
+version = "0.1.0"
+authors = ["noah"]
+description = "Print a friendly tree-like view of git status"
+homepage = "https://github.com/noahp/rust-git-status-tree"
+repository = "https://github.com/noahp/rust-git-status-tree.git"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
